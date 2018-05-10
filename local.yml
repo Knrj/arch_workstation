@@ -1,4 +1,4 @@
-- hosts: workstation
+- hosts: archlinux
   become: true
   tasks:
   - name: install htop
