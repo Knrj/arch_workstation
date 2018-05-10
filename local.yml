@@ -7,4 +7,5 @@
       - htop
       - tmux
       - zsh
-      
+      - git
+      - python
